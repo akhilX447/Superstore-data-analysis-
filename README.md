@@ -1,2 +1,1 @@
-# Superstore-data-analysis-
-This project involves analyzing store-level sales data using Microsoft Excel. The goal was to extract meaningful insights related to sales trends, profitability, and category performance through data cleaning, formulas, and Excel dashboards.
+This project analyzes sales data from a Superstore using SQL for data cleaning and transformation, and Power BI for creating interactive visual dashboards.
