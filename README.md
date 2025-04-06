@@ -41,7 +41,9 @@ Custom slicers and visual filters added for interactivity
 🧪 Sample SQL Query Used sql Copy Edit SELECT Region, Category, SUM(Sales) AS Total_Sales, SUM(Profit) AS Total_Profit FROM Superstore GROUP BY Region, Category ORDER BY Total_Profit DESC;
 
 📊 Dashboard Preview
+
 <img width="618" alt="image" src="https://github.com/user-attachments/assets/e94b6d46-5153-4691-9c7c-2be08d71de96" />
+
 <img width="623" alt="image" src="https://github.com/user-attachments/assets/efcc52e3-ccf9-40b2-a024-8a0720d6548d" />
 
 
